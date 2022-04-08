@@ -1,16 +1,18 @@
 
 <h1 align="center"> Hi! <i> I'm Shoukath Ali Shaik <i><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">Developer in Data Team 🇮🇳</h3>
+<h3 align="center">Developer - Data Team 🇮🇳</h3>
 	
 # Me 👨‍💻 <img src="https://komarev.com/ghpvc/?username=shoukath-ali&color=ff69b4&label=visitors&style=flat-square" align="right" />
-
+**Self-motivated Computer Science engineer seeking - a full-time position in an organization, where I can achieve real-world challenges and gain experience in fields related to business, finance, healthcare, technology and improve development skills to support growth and success.
+<b>Curious about technology</b>.**
 	
-- 🔭 I’m currently working on ....***SAS Programming ***
-- 🌱 I’m currently learning .... **Statistics* , *Machine Learning**
-- 👯 I’m looking to collaborate on .... **Open source projects**
-- 🤔 I’m looking for help with .... **ML** *&* **Blockchain**
-- 💬 Ask me about .... ***SQL*,*Python*,*Data Science Practices*, *cpp***
-- 📫 How to reach me: <a href = "mailto: Heyshoukath@gmail.com">Email</a>
+- 👨‍🎓 Graduate -  **National Institute od Technology Patna**
+- 🔭 I’m currently working on - **SAS Programming**
+- 🌱 I’m currently learning - **Statistics* , *Machine Learning**
+- 👯 I’m looking to collaborate on - **Open source projects**
+- 🤔 I’m looking for help with - **ML** *&* **Blockchain**
+- 💬 Ask me about - ***SQL*,*Python*,*Data Science Practices*, *cpp***
+- 📫 How to reach me: <a href = "mailto: Heyshoukath@gmail.com">heyshoukath@gmail.com</a>
 
 <div align="center">
 
