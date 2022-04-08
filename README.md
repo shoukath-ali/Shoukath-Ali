@@ -3,8 +3,8 @@
 <h3 align="center">Developer - Data Team 🇮🇳</h3>
 	
 # Me 👨‍💻 <img src="https://komarev.com/ghpvc/?username=shoukath-ali&color=ff69b4&label=visitors&style=flat-square" align="right" />
-**Self-motivated Computer Science engineer seeking - a full-time position in an organization, where I can achieve real-world challenges and gain experience in fields related to business, finance, healthcare, technology and improve development skills to support growth and success.
-<b>Curious about technology</b>.**
+**Self-motivated Computer Science engineer seeking - a full-time position in an organization, where I can achieve real-world challenges and gain experience in fields related to business, finance, healthcare, technology and improve development skills to support growth and success.**
+	<strong>Curious about technology</strong>
 	
 - 👨‍🎓 Graduate -  **National Institute od Technology Patna**
 - 🔭 I’m currently working on - **SAS Programming**
@@ -27,7 +27,7 @@
    <h1>Projects </h1>
   
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoukath-ali&repo=Covid-Dashboard-India&theme=tokyonight" width="40%" height="90%"/>](https://github.com/shoukath-ali/Covid-Dashboard-India)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoukath-ali&repo=Resume&theme=tokyonight" width="46%" height="97%"/>](https://github.com/shoukath-ali/Resume)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoukath-ali&repo=Resume&theme=tokyonight" width="40%" height="90%"/>](https://github.com/shoukath-ali/Resume)
   <h2 align = "center">Most of the projects I work are on Google Colab - Data Science/Analyst practices or Data engineer skills in cloud</h2>
 
 </div>
