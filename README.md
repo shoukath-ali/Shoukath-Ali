@@ -1,9 +1,9 @@
 
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><i> I'm Shoukath Ali Shaik <i></h1>
+<h1 align="center"> Hi! <i> I'm Shoukath Ali Shaik <i><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">Developer in Data Team 🇮🇳</h3>
 	
 # Me 👨‍💻 <img src="https://komarev.com/ghpvc/?username=shoukath-ali&color=ff69b4&label=visitors&style=flat-square" align="right" />
-****
+
 	
 - 🔭 I’m currently working on ....***SAS Programming ***
 - 🌱 I’m currently learning .... **Statistics* , *Machine Learning**
@@ -34,7 +34,7 @@
 <div align="center">
   <h1>Tech Skills :computer: </h1>
 
-![B](https://icongr.am/devicon/c-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/cplusplus-original.svg?size=55&color=563d7c) ![B]        (https://icongr.am/devicon/html5-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/css3-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/bootstrap-plain.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/javascript-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/git-original.svg?size=55&color=563d7c)     ![B](https://icongr.am/devicon/react-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/heroku-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/nodejs-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/python-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/mongodb-original.svg?size=55&color=563d7c)
+![B](https://icongr.am/devicon/c-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/cplusplus-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/html5-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/css3-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/bootstrap-plain.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/javascript-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/git-original.svg?size=55&color=563d7c)     ![B](https://icongr.am/devicon/react-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/heroku-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/nodejs-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/python-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/mongodb-original.svg?size=55&color=563d7c)
 
 </div>
   
