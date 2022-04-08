@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><i> I'm Shoukath Ali Shaik <i></h1>
 <h3 align="center">Developer in Data Team 🇮🇳</h3>
@@ -21,8 +20,6 @@
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
 	
 </div>
-
-<br />
 	
 <div align="center">
    <h1>Projects </h1>
@@ -37,7 +34,7 @@
 <div align="center">
   <h1>Tech Skills :computer: </h1>
 
-![B](https://icongr.am/devicon/c-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/cplusplus-original.svg?size=55&color=563d7c) ![B]        (https://icongr.am/devicon/html5-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/css3-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/bootstrap-plain.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/javascript-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/git-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/react-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/heroku-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/nodejs-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/python-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/mongodb-original.svg?size=55&color=563d7c)
+![B](https://icongr.am/devicon/c-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/cplusplus-original.svg?size=55&color=563d7c) ![B]        (https://icongr.am/devicon/html5-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/css3-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/bootstrap-plain.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/javascript-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/git-original.svg?size=55&color=563d7c)     ![B](https://icongr.am/devicon/react-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/heroku-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/nodejs-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/python-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/mongodb-original.svg?size=55&color=563d7c)
 
 </div>
   
@@ -95,7 +92,6 @@
 <div align="center">
   <h1>Connect With Me :inbox_tray: </h1>
 	
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananthakrishnan-nair-rs/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Anantha84782530)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoukath-ali-b6650576/)
 
 </div>
