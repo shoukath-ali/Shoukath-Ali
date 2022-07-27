@@ -7,7 +7,7 @@
 	<strong>Curious about technology</strong>
 	
 - 👨‍🎓 Graduate -  **National Institute od Technology Patna**
-- 🔭 I’m currently working on - **SAS Programming**
+- 🔭 I’m currently working on - **Data Engineering**
 - 🌱 I’m currently learning - **Statistics* , *Machine Learning**
 - 👯 I’m looking to collaborate on - **Open source projects**
 - 🤔 I’m looking for help with - **ML** *&* **Blockchain**
