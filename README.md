@@ -1,12 +1,13 @@
 
 <h1 align="center"> Hi! <i> I'm Shoukath Ali Shaik <i><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">Developer - Data Team 🇮🇳</h3>
+<h3 align="center">Data Science Engineer, Developer - Data and AI </h3>
 	
 # Me 👨‍💻 <img src="https://komarev.com/ghpvc/?username=shoukath-ali&color=ff69b4&label=visitors&style=flat-square" align="right" />
-**Self-motivated Computer Science engineer seeking - a full-time position in an organization, where I can achieve real-world challenges and gain experience in fields related to business, finance, healthcare, technology and improve development skills to support growth and success.**
+**Self-motivated Data Science graduate seeking - a internship position in an organization, where I can achieve real-world challenges and gain experience in fields related to product, business, finance, healthcare, technology and improve development skills to support growth and success.**
 	<strong>Curious about technology</strong>
 	
-- 👨‍🎓 Graduate -  **National Institute od Technology Patna**
+- 👨‍🎓 Masters's Graduate -  **Indiana University Bloomington**
+- 👨‍🎓 Bachelor's Graduate -  **National Institute od Technology Patna**
 - 🔭 I’m currently working on - **Data Engineering**
 - 🌱 I’m currently learning - **Statistics* , *Machine Learning**
 - 👯 I’m looking to collaborate on - **Open source projects**
