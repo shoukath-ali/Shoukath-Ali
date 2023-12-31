@@ -9,9 +9,9 @@
 - 👨‍🎓 Masters's Graduate -  **Indiana University Bloomington**
 - 👨‍🎓 Bachelor's Graduate -  **National Institute od Technology Patna**
 - 🔭 I’m currently working on - **Data Engineering**
-- 🌱 I’m currently learning - **Statistics* , *Machine Learning**
+- 🌱 I’m good at - **Statistics* , *Machine Learning**
 - 👯 I’m looking to collaborate on - **Open source projects**
-- 🤔 I’m looking for help with - **ML** *&* **Blockchain**
+- 🤔 I’m looking for help with - **DataEngineering**
 - 💬 Ask me about - ***SQL*,*Python*,*Data Science Practices*, *cpp***
 - 📫 How to reach me: <a href = "mailto: Heyshoukath@gmail.com">heyshoukath@gmail.com</a>
 
