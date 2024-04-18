@@ -11,9 +11,9 @@
 - 🔭 I’m currently working on - **Data Engineering**
 - 🌱 I’m good at - **Statistics* , *Machine Learning**
 - 👯 I’m looking to collaborate on - **Open source projects**
-- 🤔 I’m looking for help with - **DataEngineering**
+- 🤔 I’m looking for help with - **LLM and DataEngineering**
 - 💬 Ask me about - ***SQL*,*Python*,*Data Science Practices*, *cpp***
-- 📫 How to reach me: <a href = "mailto: Heyshoukath@gmail.com">heyshoukath@gmail.com</a>
+- 📫 How to reach me: <a href = "mailto:shshaik@iu.edu">shshaik@iu.edu</a>
 
 <div align="center">
 
