@@ -30,7 +30,7 @@
   
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoukath-ali&repo=Covid-Dashboard-India&theme=tokyonight" width="40%" height="90%"/>](https://github.com/shoukath-ali/Covid-Dashboard-India)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoukath-ali&repo=Resume&theme=tokyonight" width="40%" height="90%"/>](https://github.com/shoukath-ali/Resume)
-  <h2 align = "center">Most of the projects I work are on Google Colab - Data Science/Analyst practices or Data engineer skills in cloud</h2>
+  <h2 align = "center">Most of the projects I work are on SuperComputers -- can't find them in Github </h2>
 
 </div>
 <br/>
