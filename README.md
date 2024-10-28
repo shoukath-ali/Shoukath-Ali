@@ -1,8 +1,8 @@
 
 <h1 align="center"> Hi! <i> I'm Shoukath Ali Shaik <i><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">Data Science Engineer, Developer - Data and AI </h3>
+<h3 align="center">Aspiring Big/Cloud Data Engineer, Developer - Data Science and AI </h3>
 	
-# Me 👨‍💻 <img src="https://komarev.com/ghpvc/?username=shoukath-ali&color=ff69b4&label=visitors&style=flat-square" align="right" />
+# About👨‍💻 <img src="https://komarev.com/ghpvc/?username=shoukath-ali&color=ff69b4&label=visitors&style=flat-square" align="right" />
 **Self-motivated Data Science graduate seeking a internship position this Summer 2024 in an organization, where I can achieve real-world challenges and gain experience in fields related to product, business, finance, healthcare, technology and improve development skills to support growth and success.**
 	<strong>Curious about technology</strong>
 	
@@ -94,8 +94,8 @@
   
 <br/>
 -->
-<div align="center">
-	<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="shoukath-ali-b6650576" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/shoukath-ali-b6650576?trk=profile-badge">Shoukath Ali</a></div>
 
-</div>
+<img width="366" alt="image" src="https://github.com/user-attachments/assets/65075960-c7e5-48f9-8f7b-92300ad3acd1">
+
+
+
