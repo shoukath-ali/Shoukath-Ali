@@ -15,7 +15,7 @@
 - 🤔 I’m looking for help with - **DataEngineering**
 - 💬 Ask me about - ***SQL*,*Python*,*Data Science Practices*, *cpp***
 - 📫 How to reach me: <a href = "mailto:shshaik@iu.edu">shshaik@iu.edu</a>
-
+<!--
 <div align="center">
 
 	
@@ -30,7 +30,7 @@
   
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoukath-ali&repo=Covid-Dashboard-India&theme=tokyonight" width="40%" height="90%"/>](https://github.com/shoukath-ali/Covid-Dashboard-India)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=shoukath-ali&repo=Resume&theme=tokyonight" width="40%" height="90%"/>](https://github.com/shoukath-ali/Resume)
-  <h2 align = "center">Most of the projects I work are on SuperComputers -- can't find them in Github </h2>
+ // <h2 align = "center">Most of the projects I work are on either on superComputers or confidential -- can't add them in Github due to restrictions</h2>
 
 </div>
 <br/>
@@ -93,9 +93,9 @@
 </div>
   
 <br/>
+-->
 <div align="center">
-  <h1>Connect With Me :inbox_tray: </h1>
-	
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoukath-ali-b6650576/)
+	<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="shoukath-ali-b6650576" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/shoukath-ali-b6650576?trk=profile-badge">Shoukath Ali</a></div>
 
 </div>
