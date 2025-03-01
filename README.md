@@ -7,12 +7,12 @@
 	<strong>Curious about technology</strong>
 	
 - 👨‍🎓 Masters's Graduate -  **Indiana University Bloomington**
-- 👨‍🎓 Major -  **Data Science**
+- 👨‍🎓 Major -  **Data Science (Big Data System)**
 - 👨‍🎓 Bachelors Major -  **Computer Science**
-- 🔭 I’m currently working on - **Data Engineering**
+- 🔭 I’m currently working on - **Big Data Engineering**
 - 🌱 I’m good at - **Statistics* , *Machine Learning and LLM**
 - 👯 I’m looking to collaborate on - **Open source projects**
-- 🤔 I’m looking for help with - **DataEngineering**
+- 🤔 I’m looking for help with - **LLMOps in Data Engineering*
 - 💬 Ask me about - ***SQL*,*Python*,*Data Science Practices*, *cpp***
 - 📫 How to reach me: <a href = "mailto:shshaik@iu.edu">shshaik@iu.edu</a>
 <!--
