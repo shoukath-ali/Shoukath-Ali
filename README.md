@@ -3,18 +3,18 @@
 <h3 align="center">Aspiring Big/Cloud Data Engineer, Developer - Data Science and AI </h3>
 	
 # About👨‍💻 <img src="https://komarev.com/ghpvc/?username=shoukath-ali&color=ff69b4&label=visitors&style=flat-square" align="right" />
-**Self-motivated Data Science graduate seeking a internship position this Summer 2024 in an organization, where I can achieve real-world challenges and gain experience in fields related to product, business, finance, healthcare, technology and improve development skills to support growth and success.**
+**Self-motivated Data Science graduate seeking a fulltime position starting this Summer 2025 in an organization, where I can achieve real-world challenges and gain experience in fields related to product, business, finance, healthcare, technology and improve development skills to support growth and success.**
 	<strong>Curious about technology</strong>
 	
 - 👨‍🎓 Masters's Graduate -  **Indiana University Bloomington**
 - 👨‍🎓 Major -  **Data Science (Big Data System)**
 - 👨‍🎓 Bachelors Major -  **Computer Science**
-- 🔭 I’m currently working on - **Big Data Engineering**
-- 🌱 I’m good at - **Statistics* , *Machine Learning and LLM**
+- 🔭 I’m currently working on - **AI Engineering**
+- 🌱 I’m good at - **Statistics* , *Machine Learning and LLM**, **Big Data Engineering**
 - 👯 I’m looking to collaborate on - **Open source projects**
 - 🤔 I’m looking for help with - **LLMOps in Data Engineering*
 - 💬 Ask me about - ***SQL*,*Python*,*Data Science Practices*, *cpp***
-- 📫 How to reach me: <a href = "mailto:shshaik@iu.edu">shshaik@iu.edu</a>
+- 📫 How to reach me: <a href = "mailto:heyshoukath@gmail.com">heyshoukath@gmail.com</a>
 <!--
 <div align="center">
 
