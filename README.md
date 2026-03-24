@@ -1,9 +1,9 @@
 
 <h1 align="center"> Hi! <i> I'm Shoukath Ali Shaik <i><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">Aspiring Big/Cloud Data Engineer, Developer - Data Science and AI </h3>
+<h3 align="center"> Software Engineer, Developer - Big Data,  Data engineer and AI </h3>
 	
 # About👨‍💻 <img src="https://komarev.com/ghpvc/?username=shoukath-ali&color=ff69b4&label=visitors&style=flat-square" align="right" />
-**Self-motivated Data Science graduate seeking a fulltime position starting this Summer 2025 in an organization, where I can achieve real-world challenges and gain experience in fields related to product, business, finance, healthcare, technology and improve development skills to support growth and success.**
+**Self-motivated Engineer**
 	<strong>Curious about technology</strong>
 	
 - 👨‍🎓 Masters's Graduate -  **Indiana University Bloomington**
