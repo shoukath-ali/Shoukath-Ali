@@ -9,11 +9,11 @@
 - 👨‍🎓 Masters's Graduate -  **Indiana University Bloomington**
 - 👨‍🎓 Major -  **Data Science (Big Data System)**
 - 👨‍🎓 Bachelors Major -  **Computer Science**
-- 🔭 I’m currently working on - **AI Engineering**
-- 🌱 I’m good at - **Statistics* , *Machine Learning and LLM**, **Big Data Engineering**
+- 🔭 I’m currently an - **AI Engineer**
+- 🌱 I’m good at - **Software Engineering* , *Machine Learning and LLM**, **Big Data Engineering**
 - 👯 I’m looking to collaborate on - **Open source projects**
-- 🤔 I’m looking for help with - **LLMOps in Data Engineering*
-- 💬 Ask me about - ***SQL*,*Python*,*Data Science Practices*, *cpp***
+- 🤔 I’m looking for help with - **LLMOps / AgentOps*
+- 💬 Ask me about - ***SQL*,*Python*,,*System Design*,*Data Science Practices*, *Algorithms***
 - 📫 How to reach me: <a href = "mailto:heyshoukath@gmail.com">heyshoukath@gmail.com</a>
 <!--
 <div align="center">
